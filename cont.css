@@ -1,7 +1,7 @@
 body{
     padding: 0px;
     margin: 0px;
-    background-color: plum;
+    background-image: url(ablum/OOOOOOO.png);
     
 
     
@@ -73,5 +73,30 @@ footer  .fot{
     margin-top: 2cm;
 }
 main{
-    
+    height: 13cm;
+}
+.form input{
+    width: 60%;
+    height: 1cm;
+    border-radius: 20px;
+    background-color:plum;
+}
+
+.form{
+    margin-top: 3cm;
+}
+.form button{
+    width: 5cm;
+    height: 1cm;
+    background-color: palevioletred;
+    border-radius: 20px;
+}
+.nom h1{
+    color: rgb(51, 4, 20);
+}
+.nom h2{
+    color: rgb(89, 16, 41);
+}
+.nom h3{
+    color: rgb(96, 48, 64);
 }

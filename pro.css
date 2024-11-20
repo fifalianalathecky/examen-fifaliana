@@ -26,10 +26,6 @@ nav input{
     margin-bottom: 20px;
     margin-left: 1cm;
 }   
-    nav span a{
-        color: rgb(128, 96, 16);
-        text-decoration-line: underline;
-    }
     nav a:hover{
         cursor: pointer;
         color: rgb(128, 96, 16);
