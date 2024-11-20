@@ -1,0 +1,113 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-color: powderblue;
+    
+
+    
+}
+nav img{
+    width: 4cm;
+    height: 2cm;
+
+}
+nav{
+    background-color: rgb(133, 21, 59) ;
+    margin-bottom: 20px;
+}
+nav a{
+    padding-left: 2cm;
+    text-decoration: none;
+    font-size: 20px;
+    color: azure;
+    
+}
+nav input{
+    margin-bottom: 20px;
+    margin-left: 1cm;
+}   
+    nav span a{
+        color: rgb(128, 96, 16);
+        text-decoration-line: underline;
+    }
+    nav a:hover{
+        cursor: pointer;
+        color: rgb(128, 96, 16);
+        text-decoration-line: underline;
+        
+    }
+    main img{
+        width: 12cm;
+        height: 13cm;
+    }
+    .mari{
+        display: flex;
+
+    }
+    .divpet{
+        width: 45%;
+    }
+    .divpat{
+        width: 45%;
+        margin-top: 3cm;
+    }
+    .divpat ul{
+        font-size: 30px;
+        color: purple;
+    }
+    .divpat h2{
+        font-size: 40px;
+        color: blueviolet;
+    }
+    .femme{
+        display: flex;
+        margin-top: 2cm;
+    }
+    .sar{
+        width: 45%;
+    }
+    .list{
+        width: 45%;
+    }
+    .list h3{
+        font-size: 35px;
+        color: blueviolet;
+    }
+    .list ul{
+        font-size: 30px;
+        color: purple;
+    }
+    footer{
+        color: azure;
+        background-color: rgb(133, 21, 59) ; ;
+        padding-top: 3px;
+    
+    }
+    footer  .fot{
+        display: flex;
+        margin-top: 1cm;
+    }
+    .one{
+        width: 30%;
+        border-right: groove 3px;
+    }
+    .two{
+        width: 30%; 
+        font-size: 40px;
+        margin-top: 3cm; 
+        margin-left: 1cm;
+    }
+       
+    
+    .threes{
+        width: 30%;
+        border-right: groove 3px;
+        margin-left: 1cm;
+    }
+    .four img{
+        width:4cm ;
+        height: 4cm;
+        border-radius: 150px;
+        margin-top: 2cm;
+    }
+    

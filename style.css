@@ -1,0 +1,93 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url(ablum/sipa\ coif.jpg);
+
+    
+}
+nav img{
+    width: 4cm;
+    height: 2cm;
+
+}
+nav{
+    background-color: rgb(133, 21, 59) ;
+    margin-bottom: 20px;
+}
+nav a{
+    padding-left: 2cm;
+    text-decoration: none;
+    font-size: 20px;
+    color: azure;
+    
+}
+nav input{
+    margin-bottom: 20px;
+    margin-left: 1cm;
+}
+
+.first{
+    background-color: plum;
+    width: 15cm;
+    height: 5cm;
+    text-align: center;
+    margin-left: 18cm;
+    border-radius: 20px;
+}
+.first p{
+    font-size: 30px;
+    color:aqua;
+}
+.maintwo{
+    background-color: azure;
+    margin-top: 5cm;
+    height: 6cm;
+    font-size: 20px;
+}
+
+nav span a{
+    color: rgb(128, 96, 16);
+    text-decoration-line: underline;
+}
+nav a:hover{
+    cursor: pointer;
+    color: rgb(128, 96, 16);
+    text-decoration-line: underline;
+    
+}
+.maintwo p{
+    padding-top: 1cm;
+}
+footer{
+    color: azure;
+    background-color: rgb(133, 21, 59) ; ;
+    padding-top: 3px;
+
+}
+footer  .fot{
+    display: flex;
+    margin-top: 1cm;
+}
+.one{
+    width: 30%;
+    border-right: groove 3px;
+}
+.two{
+    width: 30%; 
+    font-size: 40px;
+    margin-top: 3cm; 
+    margin-left: 1cm;
+}
+   
+
+.threes{
+    width: 30%;
+    border-right: groove 3px;
+    margin-left: 1cm;
+}
+.four img{
+    width:4cm ;
+    height: 4cm;
+    border-radius: 150px;
+    margin-top: 2cm;
+}
